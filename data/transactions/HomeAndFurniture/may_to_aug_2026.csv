@@ -1,0 +1,14 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00220,2026-05-18,Study Table,Manisha Thapa,3,308.3,Sydney,PayPal
+TXN00221,2026-04-08,LED Desk Lamp,Emma Watson,5,353.2,Kathmandu,Debit Card
+TXN00222,2026-06-08,Bookshelf,Ava Moore,1,194.5,Pokhara,Bank Transfer
+TXN00223,2026-01-17,Office Chair,Noah Wilson,6,225.6,London,PayPal
+TXN00224,2026-02-05,Bookshelf,Bipin Koirala,1,194.5,Kathmandu,PayPal
+TXN00225,2026-01-25,Bookshelf,Anita Shrestha,1,194.5,Melbourne,Debit Card
+TXN00226,2026-04-05,Bookshelf,Ava Moore,4,194.5,Sydney,Bank Transfer
+TXN00227,2026-06-17,Office Chair,Manisha Thapa,4,225.6,Manchester,Cash on Delivery
+TXN00228,2026-08-29,Bedsheet Set,Kiran Bhattarai,4,241.0,Kathmandu,PayPal
+TXN00229,2026-04-24,Office Chair,Anita Shrestha,4,225.6,Manchester,PayPal
+TXN00230,2026-04-05,Study Table,Ava Moore,6,308.3,London,PayPal
+TXN00231,2026-03-12,Study Table,Suman Karki,4,308.3,Kathmandu,Cash on Delivery
+TXN00232,2026-02-24,Study Table,Mia Lewis,6,308.3,Kathmandu,Credit Card

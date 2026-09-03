@@ -1,0 +1,13 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00208,2026-04-08,Study Table,Ethan Clark,2,308.3,Pokhara,Bank Transfer
+TXN00209,2026-03-17,LED Desk Lamp,Aarav Sharma,6,353.2,Manchester,Cash on Delivery
+TXN00210,2026-05-25,LED Desk Lamp,Bipin Koirala,1,353.2,Melbourne,Cash on Delivery
+TXN00211,2026-06-05,LED Desk Lamp,Emma Watson,2,353.2,Biratnagar,Debit Card
+TXN00212,2026-06-23,Bedsheet Set,Rohan Gurung,3,241.0,London,Credit Card
+TXN00213,2026-07-21,Study Table,Noah Wilson,3,308.3,Kathmandu,Bank Transfer
+TXN00214,2026-02-03,LED Desk Lamp,Sita Rai,6,353.2,Pokhara,PayPal
+TXN00215,2026-02-21,Bookshelf,Rohan Gurung,2,194.5,Manchester,Bank Transfer
+TXN00216,2026-05-09,LED Desk Lamp,Kiran Bhattarai,5,353.2,Manchester,Debit Card
+TXN00217,2026-07-26,LED Desk Lamp,Nisha Adhikari,4,353.2,London,PayPal
+TXN00218,2026-01-20,Study Table,Rohan Gurung,4,308.3,Manchester,Debit Card
+TXN00219,2026-04-04,Bookshelf,Sita Rai,5,194.5,Manchester,Cash on Delivery

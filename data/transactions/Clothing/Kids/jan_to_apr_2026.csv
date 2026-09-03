@@ -1,0 +1,11 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00136,2026-04-01,Kids School Bag,Kiran Bhattarai,2,86.1,Pokhara,PayPal
+TXN00137,2026-08-14,Kids Sneakers,Kiran Bhattarai,6,291.3,Melbourne,Credit Card
+TXN00138,2026-01-22,Kids Sneakers,Anita Shrestha,2,291.3,London,Cash on Delivery
+TXN00139,2026-07-14,Kids School Bag,Anita Shrestha,5,86.1,London,Cash on Delivery
+TXN00140,2026-05-06,Kids Sneakers,Noah Wilson,6,291.3,Manchester,Credit Card
+TXN00141,2026-02-26,Kids Raincoat,Liam Brown,3,38.1,London,Debit Card
+TXN00142,2026-05-29,Kids School Bag,Emma Watson,6,86.1,Sydney,Bank Transfer
+TXN00143,2026-04-19,Kids Sneakers,Ava Moore,3,291.3,Pokhara,PayPal
+TXN00144,2026-03-11,Kids Sneakers,Nisha Adhikari,4,291.3,Pokhara,Debit Card
+TXN00145,2026-02-19,Kids Raincoat,David Miller,6,38.1,Kathmandu,Bank Transfer

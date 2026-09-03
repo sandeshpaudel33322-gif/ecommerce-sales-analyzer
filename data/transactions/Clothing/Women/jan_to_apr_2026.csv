@@ -1,0 +1,16 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00106,2026-03-12,Women's Handbag,James Taylor,6,127.9,Sydney,Debit Card
+TXN00107,2026-01-20,Women's Sneakers,Nisha Adhikari,4,352.3,Biratnagar,PayPal
+TXN00108,2026-08-17,Women's Sneakers,Ava Moore,3,352.3,Kathmandu,Debit Card
+TXN00109,2026-04-09,Women's Handbag,Rohan Gurung,2,127.9,London,Debit Card
+TXN00110,2026-04-15,Women's Summer Dress,David Miller,4,137.1,Melbourne,Cash on Delivery
+TXN00111,2026-02-22,Women's Kurti,Olivia Jones,1,368.9,Sydney,Bank Transfer
+TXN00112,2026-04-08,Women's Summer Dress,Sophia Davis,5,137.1,Kathmandu,PayPal
+TXN00113,2026-08-07,Women's Sneakers,Olivia Jones,4,352.3,Melbourne,Bank Transfer
+TXN00114,2026-02-26,Women's Handbag,Kiran Bhattarai,4,127.9,Sydney,Cash on Delivery
+TXN00115,2026-03-28,Women's Summer Dress,Liam Brown,4,137.1,London,Debit Card
+TXN00116,2026-06-09,Women's Kurti,Ava Moore,2,368.9,Kathmandu,Cash on Delivery
+TXN00117,2026-06-14,Women's Summer Dress,Olivia Jones,1,137.1,Biratnagar,Cash on Delivery
+TXN00118,2026-03-08,Women's Handbag,Liam Brown,1,127.9,Pokhara,Debit Card
+TXN00119,2026-03-28,Women's Kurti,Liam Brown,3,368.9,Pokhara,Cash on Delivery
+TXN00120,2026-05-01,Women's Sneakers,Aarav Sharma,1,352.3,London,Bank Transfer

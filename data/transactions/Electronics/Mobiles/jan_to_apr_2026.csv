@@ -1,0 +1,15 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00001,2026-07-09,Galaxy S24,Kiran Bhattarai,1,300.5,Biratnagar,Debit Card
+TXN00002,2026-01-27,iPhone 15,Ava Moore,6,339.3,Kathmandu,Bank Transfer
+TXN00003,2026-01-08,OnePlus 12,Sita Rai,1,312.7,Biratnagar,Debit Card
+TXN00004,2026-01-07,Redmi Note 14,Ava Moore,5,158.3,Biratnagar,Bank Transfer
+TXN00005,2026-04-25,OnePlus 12,Ethan Clark,2,312.7,Pokhara,Credit Card
+TXN00006,2026-04-19,iPhone 15,David Miller,6,339.3,Pokhara,Debit Card
+TXN00007,2026-01-27,iPhone 15,Sita Rai,3,339.3,Sydney,Credit Card
+TXN00008,2026-06-04,Pixel 9,Kiran Bhattarai,3,334.4,Manchester,Credit Card
+TXN00009,2026-02-01,OnePlus 12,Liam Brown,5,312.7,Kathmandu,Bank Transfer
+TXN00010,2026-06-08,Pixel 9,Emma Watson,6,334.4,Melbourne,Debit Card
+TXN00011,2026-06-19,Galaxy S24,Anita Shrestha,1,300.5,Manchester,PayPal
+TXN00012,2026-08-10,Galaxy S24,Manisha Thapa,2,300.5,Sydney,PayPal
+TXN00013,2026-08-02,OnePlus 12,Emma Watson,6,312.7,Biratnagar,PayPal
+TXN00014,2026-06-21,Pixel 9,Kiran Bhattarai,2,334.4,London,Credit Card

@@ -1,0 +1,14 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00042,2026-05-19,Lenovo ThinkPad,Rohan Gurung,2,109.6,London,Bank Transfer
+TXN00043,2026-03-04,Asus Zenbook,Sophia Davis,4,251.6,Manchester,Cash on Delivery
+TXN00044,2026-01-25,Dell XPS 13,Olivia Jones,1,271.6,Pokhara,Cash on Delivery
+TXN00045,2026-08-10,Lenovo ThinkPad,Bipin Koirala,4,109.6,London,Credit Card
+TXN00046,2026-07-06,MacBook Air M4,David Miller,4,366.1,Manchester,Credit Card
+TXN00047,2026-02-18,Dell XPS 13,Ava Moore,2,271.6,Sydney,Debit Card
+TXN00048,2026-03-13,Lenovo ThinkPad,Noah Wilson,2,109.6,Biratnagar,Credit Card
+TXN00049,2026-01-26,Lenovo ThinkPad,Bipin Koirala,5,109.6,London,Bank Transfer
+TXN00050,2026-08-26,MacBook Air M4,Anita Shrestha,1,366.1,Biratnagar,Cash on Delivery
+TXN00051,2026-02-24,Lenovo ThinkPad,Liam Brown,4,109.6,Kathmandu,Debit Card
+TXN00052,2026-04-10,Lenovo ThinkPad,Kiran Bhattarai,1,109.6,Manchester,Cash on Delivery
+TXN00053,2026-06-28,HP Pavilion,Ava Moore,4,82.4,London,Cash on Delivery
+TXN00054,2026-03-17,Dell XPS 13,Suman Karki,2,271.6,Kathmandu,Bank Transfer

@@ -1,0 +1,14 @@
+category,depth,revenue,units,transaction_count
+ALL,0,196553.0,809,232
+ALL/Clothing,1,43444.1,248,72
+Kids,2,11797.5,75,20
+Men,2,6738.5,72,22
+Women,2,24908.1,101,30
+ALL/Electronics,1,70999.9,277,83
+Accessories,2,21273.3,90,29
+Laptops,2,18439.4,83,26
+Mobiles,2,31287.2,104,28
+ALL/Groceries,1,55665.4,192,52
+Beverages,2,38961.0,113,30
+Snacks,2,16704.4,79,22
+ALL/HomeAndFurniture,1,26443.6,92,25

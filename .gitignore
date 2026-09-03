@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+__MACOSX/
+._*
+venv/
+.venv/
+env/
+.vscode/
+.idea/
+.envgit add .

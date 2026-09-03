@@ -1,0 +1,16 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00156,2026-06-02,Mineral Water Case,Mia Lewis,5,301.5,Biratnagar,Bank Transfer
+TXN00157,2026-08-21,Mineral Water Case,Noah Wilson,4,301.5,Pokhara,Bank Transfer
+TXN00158,2026-05-26,Mineral Water Case,Mia Lewis,3,301.5,Kathmandu,Bank Transfer
+TXN00159,2026-06-10,Green Tea Pack,Suman Karki,2,378.1,Pokhara,Credit Card
+TXN00160,2026-02-14,Instant Coffee Jar,Ava Moore,2,385.5,Kathmandu,Debit Card
+TXN00161,2026-04-26,Green Tea Pack,Mia Lewis,4,378.1,Sydney,PayPal
+TXN00162,2026-03-15,Green Tea Pack,Nisha Adhikari,2,378.1,London,Cash on Delivery
+TXN00163,2026-03-01,Green Tea Pack,Kiran Bhattarai,6,378.1,Manchester,Bank Transfer
+TXN00164,2026-01-30,Instant Coffee Jar,Ava Moore,4,385.5,Biratnagar,Debit Card
+TXN00165,2026-01-19,Fruit Juice Carton,Bipin Koirala,2,266.4,Biratnagar,PayPal
+TXN00166,2026-02-01,Fruit Juice Carton,Noah Wilson,4,266.4,London,PayPal
+TXN00167,2026-05-09,Mineral Water Case,Ava Moore,3,301.5,Sydney,Cash on Delivery
+TXN00168,2026-01-11,Green Tea Pack,Olivia Jones,5,378.1,London,PayPal
+TXN00169,2026-01-24,Fruit Juice Carton,Anita Shrestha,1,266.4,London,Bank Transfer
+TXN00170,2026-07-30,Green Tea Pack,Kiran Bhattarai,6,378.1,Melbourne,Credit Card

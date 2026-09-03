@@ -1,0 +1,12 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00084,2026-03-31,Men's Denim Jacket,James Taylor,3,132.8,Sydney,Bank Transfer
+TXN00085,2026-01-30,Men's Running Shoes,Kiran Bhattarai,1,37.5,Biratnagar,Bank Transfer
+TXN00086,2026-01-28,Men's Running Shoes,Mia Lewis,1,37.5,Sydney,PayPal
+TXN00087,2026-06-05,Men's Running Shoes,James Taylor,4,37.5,Kathmandu,Cash on Delivery
+TXN00088,2026-01-12,Men's Formal Shirt,Olivia Jones,3,31.7,Kathmandu,Bank Transfer
+TXN00089,2026-04-21,Men's Formal Shirt,Sita Rai,3,31.7,London,PayPal
+TXN00090,2026-08-06,Men's Running Shoes,Manisha Thapa,6,37.5,London,PayPal
+TXN00091,2026-04-15,Men's Running Shoes,David Miller,6,37.5,Sydney,PayPal
+TXN00092,2026-04-18,Men's Formal Shirt,Liam Brown,2,31.7,London,Debit Card
+TXN00093,2026-05-21,Men's Running Shoes,Aarav Sharma,4,37.5,Pokhara,PayPal
+TXN00094,2026-07-21,Men's Formal Shirt,Ethan Clark,4,31.7,Melbourne,PayPal

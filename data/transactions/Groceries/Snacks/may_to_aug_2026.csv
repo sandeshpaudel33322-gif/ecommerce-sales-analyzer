@@ -1,0 +1,12 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00197,2026-01-10,Granola Bars,Mia Lewis,5,259.6,Kathmandu,Debit Card
+TXN00198,2026-07-11,Chocolate Box,Sita Rai,2,70.7,Sydney,Credit Card
+TXN00199,2026-02-12,Potato Chips,Nisha Adhikari,4,348.8,Kathmandu,Credit Card
+TXN00200,2026-03-17,Chocolate Box,Emma Watson,1,70.7,Pokhara,Cash on Delivery
+TXN00201,2026-05-16,Mixed Nuts Pack,Olivia Jones,2,276.9,Melbourne,Debit Card
+TXN00202,2026-01-21,Mixed Nuts Pack,Mia Lewis,2,276.9,Manchester,Cash on Delivery
+TXN00203,2026-08-22,Mixed Nuts Pack,Ethan Clark,4,276.9,Biratnagar,Debit Card
+TXN00204,2026-03-07,Granola Bars,Noah Wilson,6,259.6,Pokhara,Credit Card
+TXN00205,2026-06-23,Granola Bars,Ava Moore,3,259.6,Biratnagar,Credit Card
+TXN00206,2026-05-31,Granola Bars,Nisha Adhikari,3,259.6,London,Cash on Delivery
+TXN00207,2026-08-05,Chocolate Box,Nisha Adhikari,4,70.7,Biratnagar,Cash on Delivery

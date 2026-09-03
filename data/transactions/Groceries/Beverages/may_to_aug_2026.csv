@@ -1,0 +1,16 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00171,2026-05-13,Instant Coffee Jar,Noah Wilson,4,385.5,Pokhara,Debit Card
+TXN00172,2026-07-28,Mineral Water Case,Sophia Davis,6,301.5,Kathmandu,Cash on Delivery
+TXN00173,2026-03-27,Fruit Juice Carton,David Miller,4,266.4,London,Credit Card
+TXN00174,2026-04-16,Instant Coffee Jar,Sophia Davis,3,385.5,Pokhara,Cash on Delivery
+TXN00175,2026-01-23,Green Tea Pack,David Miller,4,378.1,Pokhara,PayPal
+TXN00176,2026-08-10,Green Tea Pack,James Taylor,4,378.1,Manchester,Credit Card
+TXN00177,2026-01-14,Mineral Water Case,Suman Karki,4,301.5,Melbourne,PayPal
+TXN00178,2026-04-24,Mineral Water Case,Bipin Koirala,6,301.5,Biratnagar,PayPal
+TXN00179,2026-04-23,Instant Coffee Jar,Sophia Davis,3,385.5,Kathmandu,Credit Card
+TXN00180,2026-02-10,Instant Coffee Jar,Nisha Adhikari,6,385.5,Melbourne,Credit Card
+TXN00181,2026-02-27,Mineral Water Case,Manisha Thapa,1,301.5,Sydney,Credit Card
+TXN00182,2026-08-27,Instant Coffee Jar,Nisha Adhikari,4,385.5,Melbourne,PayPal
+TXN00183,2026-05-01,Mineral Water Case,Anita Shrestha,4,301.5,Sydney,Bank Transfer
+TXN00184,2026-02-18,Instant Coffee Jar,Mia Lewis,4,385.5,Melbourne,Debit Card
+TXN00185,2026-07-17,Green Tea Pack,Olivia Jones,3,378.1,Pokhara,Bank Transfer

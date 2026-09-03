@@ -1,0 +1,19 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00015,2026-02-13,Redmi Note 14,Ava Moore,6,158.3,London,Debit Card
+TXN00016,2026-04-08,iPhone 15,Kiran Bhattarai,4,339.3,London,Bank Transfer
+TXN00017,2026-03-25,iPhone 15,Bipin Koirala,6,339.3,Biratnagar,Credit Card
+TXN00018,2026-03-10,Pixel 9,Sita Rai,4,334.4,Biratnagar,Bank Transfer
+TXN00019,2026-06-17,Pixel 9,Sophia Davis,2,334.4,Sydney,Cash on Delivery
+TXN00020,2026-02-05,iPhone 15,Anita Shrestha,3,339.3,London,Bank Transfer
+TXN00021,2026-07-11,Redmi Note 14,Ethan Clark,3,158.3,Sydney,Bank Transfer
+TXN00022,2026-02-26,OnePlus 12,Rohan Gurung,3,312.7,Melbourne,Cash on Delivery
+TXN00023,2026-08-09,Galaxy S24,Manisha Thapa,1,300.5,Biratnagar,Debit Card
+TXN00024,2026-01-17,OnePlus 12,Liam Brown,5,312.7,Sydney,Bank Transfer
+TXN00025,2026-03-06,OnePlus 12,Ava Moore,5,312.7,Manchester,Credit Card
+TXN00026,2026-08-15,Galaxy S24,Ava Moore,6,300.5,Manchester,PayPal
+TXN00027,2026-03-17,Pixel 9,Olivia Jones,1,334.4,Biratnagar,Cash on Delivery
+TXN00028,2026-08-13,Galaxy S24,Kiran Bhattarai,6,300.5,Melbourne,Debit Card
+TX-BAD-1,2026-13-40,Broken Product,Ghost Customer,-3,abc,Kathmandu,Cash
+,,,,,,,
+TX-BAD-2,2026-02-15,No Quantity Product,Some Customer,,19.99,Pokhara,PayPal
+TX-BAD-3,2026-02-16,Negative Price Product,Some Customer,2,-15.00,Sydney,Cash on Delivery

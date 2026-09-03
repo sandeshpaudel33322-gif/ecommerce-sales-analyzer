@@ -1,0 +1,12 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00186,2026-07-05,Potato Chips,Nisha Adhikari,3,348.8,Manchester,Bank Transfer
+TXN00187,2026-04-25,Granola Bars,Ava Moore,2,259.6,Sydney,PayPal
+TXN00188,2026-07-15,Chocolate Box,Ava Moore,5,70.7,Sydney,Cash on Delivery
+TXN00189,2026-06-28,Chocolate Box,Anita Shrestha,2,70.7,Melbourne,Cash on Delivery
+TXN00190,2026-01-12,Mixed Nuts Pack,David Miller,4,276.9,London,Cash on Delivery
+TXN00191,2026-06-19,Granola Bars,Rohan Gurung,4,259.6,Sydney,Credit Card
+TXN00192,2026-06-01,Mixed Nuts Pack,David Miller,5,276.9,Manchester,Credit Card
+TXN00193,2026-05-15,Granola Bars,Noah Wilson,1,259.6,Kathmandu,Debit Card
+TXN00194,2026-02-09,Granola Bars,Sita Rai,6,259.6,Sydney,PayPal
+TXN00195,2026-06-27,Chocolate Box,Liam Brown,5,70.7,London,Credit Card
+TXN00196,2026-08-08,Chocolate Box,Ava Moore,6,70.7,Sydney,PayPal

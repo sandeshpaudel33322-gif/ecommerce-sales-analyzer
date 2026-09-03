@@ -1,0 +1,12 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00095,2026-04-24,Men's Chinos,Suman Karki,4,339.1,Melbourne,Cash on Delivery
+TXN00096,2026-01-22,Men's Formal Shirt,Nisha Adhikari,6,31.7,Melbourne,Bank Transfer
+TXN00097,2026-07-29,Men's Running Shoes,Anita Shrestha,1,37.5,London,PayPal
+TXN00098,2026-02-07,Men's Formal Shirt,Aarav Sharma,2,31.7,Kathmandu,Debit Card
+TXN00099,2026-08-06,Men's Chinos,Sita Rai,5,339.1,Sydney,Cash on Delivery
+TXN00100,2026-06-28,Men's Formal Shirt,Liam Brown,6,31.7,Sydney,Cash on Delivery
+TXN00101,2026-06-17,Men's Formal Shirt,Aarav Sharma,2,31.7,Manchester,Credit Card
+TXN00102,2026-02-15,Men's Chinos,James Taylor,2,339.1,Sydney,Credit Card
+TXN00103,2026-04-27,Men's Formal Shirt,Rohan Gurung,1,31.7,Manchester,Cash on Delivery
+TXN00104,2026-06-06,Men's Running Shoes,James Taylor,4,37.5,Sydney,Bank Transfer
+TXN00105,2026-07-10,Men's Chinos,Sophia Davis,2,339.1,Sydney,PayPal

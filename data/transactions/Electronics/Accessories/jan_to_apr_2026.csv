@@ -1,0 +1,15 @@
+transaction_id,date,product,customer,quantity,unit_price,region,payment_method
+TXN00055,2026-07-11,Power Bank,David Miller,1,212.8,Kathmandu,Credit Card
+TXN00056,2026-05-09,Power Bank,James Taylor,4,212.8,Biratnagar,Credit Card
+TXN00057,2026-08-06,Power Bank,Priya Basnet,1,212.8,Kathmandu,Bank Transfer
+TXN00058,2026-08-09,Wireless Mouse,Anita Shrestha,6,189.9,Sydney,Credit Card
+TXN00059,2026-05-29,Power Bank,Mia Lewis,2,212.8,Kathmandu,Bank Transfer
+TXN00060,2026-06-18,Wireless Mouse,Ethan Clark,4,189.9,Melbourne,Bank Transfer
+TXN00061,2026-02-22,Bluetooth Earbuds,David Miller,3,183.3,Biratnagar,PayPal
+TXN00062,2026-06-21,Laptop Stand,Nisha Adhikari,2,357.5,Sydney,PayPal
+TXN00063,2026-04-28,Wireless Mouse,Mia Lewis,1,189.9,Melbourne,Credit Card
+TXN00064,2026-02-24,Wireless Mouse,James Taylor,5,189.9,Pokhara,Debit Card
+TXN00065,2026-08-14,Bluetooth Earbuds,Anita Shrestha,1,183.3,Pokhara,PayPal
+TXN00066,2026-08-02,USB-C Hub,Ava Moore,4,338.8,London,PayPal
+TXN00067,2026-05-16,Power Bank,Aarav Sharma,6,212.8,London,Bank Transfer
+TXN00068,2026-01-27,Bluetooth Earbuds,Rohan Gurung,6,183.3,Pokhara,Credit Card
